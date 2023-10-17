@@ -2,7 +2,7 @@
 
 <ul>
 <li>Nama: Muhammad Ikhwan Fathulloh</li>
-<li>Linkedin: </li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/">View</a></li>
 </ul>
 
 # Endpoint API
